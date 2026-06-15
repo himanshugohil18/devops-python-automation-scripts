@@ -1,0 +1,8 @@
+
+===== SERVER HEALTH REPORT =====
+
+
+CPU usage: 0.1%
+RAM usage: 22.8%
+DISK usage: 1.0%
+
