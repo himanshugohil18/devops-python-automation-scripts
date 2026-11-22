@@ -1,5 +1,6 @@
 import os
 
+
 print("Updating packages...")
 
 os.system("sudo apt update")
